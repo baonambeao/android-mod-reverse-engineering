@@ -3,7 +3,6 @@ date: "2026-04-22"
 tags: ["Reverse Engineering", "Android", "ARM64", "Smali", "IDA Pro", "Cybersecurity"]
 
 ## Giai Đoạn 1: Dịch Ngược và Phân Tích Tầng Java/Smali
-
 Mục tiêu đầu tiên là thấu hiểu cấu trúc của ứng dụng và xác định vị trí luồng xử lý xác thực.
 
 ### 1. Trích Xuất và Dịch Ngược APK
